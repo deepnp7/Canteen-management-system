@@ -97,7 +97,7 @@ void Mess::show()
 {
  cout<<"\n\n";
  cout <<"_JIS COLLEGE OF ENGINEERING_\t\t\t\t\t\t\t A PROJECT BY\n\n";
- cout <<"__Canteen Management System__\t\t\t\t\t\t1.HARSH SINGH\n";
+ cout <<"__Canteen Management System__\t\t\t\t\t\t1.Deepnarayan Patra\n";
  cout <<"Here choose an option\t\t\t\t\t\t\\n";
 cout <<"1.BUY AN ITEM\t\t\t\t\t\t\t\\n";
 cout <<"2.MENU CARD\t\t\t\t\t\t\t\\n";
